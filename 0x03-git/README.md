@@ -1,1 +1,1 @@
-My README.md for alx-zero_day directory
+This is the README.md file in the 0x03-git directory.
